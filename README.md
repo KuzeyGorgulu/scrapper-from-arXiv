@@ -1,6 +1,6 @@
 # arXiv Web Scraper
 
-This Python script scrapes article titles and abstracts from arXiv.org based on user queries. It utilizes BeautifulSoup for parsing HTML and Requests for fetching web pages.
+This Python script scrapes article titles and abstracts from [arXiv.org](https://arxiv.org/) based on user queries. It utilizes BeautifulSoup for parsing HTML and Requests for fetching web pages.
 
 ## Features
 
