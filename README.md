@@ -39,4 +39,4 @@ Contributions are welcome! If you have any ideas or improvements, feel free to f
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KuzeyGorgulu/scrapper-from-arXiv/blob/main/LICENSE) file for details.
